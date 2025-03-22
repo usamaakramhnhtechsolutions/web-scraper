@@ -9,14 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^10.0.4",
+    "@react-three/fiber": "^9.1.0",
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
+    "fabric": "^4.6.0",
+    "fabric-pure-browser": "^5.1.0",
+    "html2canvas": "^1.4.1",
     "mongoose": "^8.10.1",
     "next": "15.1.7",
+    "playwright": "^1.50.1",
     "puppeteer": "^24.2.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "three": "^0.174.0"
   },
   "devDependencies": {
     "postcss": "^8",
